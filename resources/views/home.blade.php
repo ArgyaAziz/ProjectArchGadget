@@ -42,9 +42,8 @@
                     ArchGadget
                 </div>
                 <div class="card-body" style="background-color: lemonchiffon;">
-                    <div class="card">
-                        <img src="img/tech.png" class="card-img-top" alt="...">
-                        <p align="center">Website Katalog HP dan Laptop Terupdate</p>
+                    <div class="card md-12">
+                       <img src="{{ asset('img/ezgif2.gif') }}" alt="Animated GIF">
                     </div>
                 </div>
             </div>

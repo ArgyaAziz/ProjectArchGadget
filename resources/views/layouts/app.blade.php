@@ -21,7 +21,7 @@
         <nav class="navbar navbar-expand-md navbar-light shadow-sm" style="background-color:red;">
             <div class="container">
                 <a class="navbar-brand" href="{{ url('/') }}">
-                <img src="{{url('img/tech.png')}}" width="75" alt="">
+                <img src="{{url('img/ezgif2.gif')}}" width="75" alt="">
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
                     <span class="navbar-toggler-icon"></span>
